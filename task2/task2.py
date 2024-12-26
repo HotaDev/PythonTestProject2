@@ -1,8 +1,4 @@
-import sys
-import os
-
-word = "Helloo"
-
+word = "Hello"
 mass = list(word)
 
 registr = dict()
